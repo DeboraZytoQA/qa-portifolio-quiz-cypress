@@ -1,4 +1,4 @@
-# 🧠 Portfólio de QA Testando um Jogo Próprio com Cypress.
+# 🧠 Portfólio de QA. Testando um Jogo próprio com Cypress.
 
 
 
