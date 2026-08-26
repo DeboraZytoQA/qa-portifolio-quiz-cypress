@@ -2,8 +2,7 @@
 
 
 
-![Testes](https://github.com/SEU-USUARIO/qa-portfolio-quiz-cypress/actions/workflows/tests.yml/badge.svg)
-
+![Testes](https://github.com/DeboraZytoQA/qa-portifolio-quiz-cypress/actions/workflows/tests.yml/badge.svg)
 
 
 Versão em Cypress do meu quiz de conhecimentos gerais — além de escrever os testes, também criei a aplicação sendo testada, em HTML/CSS/JavaScript puro.
