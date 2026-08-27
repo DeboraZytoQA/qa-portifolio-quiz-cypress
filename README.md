@@ -1,9 +1,6 @@
 # 🧠 Portifólio de QA. Testando um Jogo próprio com Cypress.
 
-
-
 ![Testes](https://github.com/DeboraZytoQA/qa-portifolio-quiz-cypress/actions/workflows/tests.yml/badge.svg)
-
 
 Versão em Cypress do meu quiz de conhecimentos gerais, além de escrever os testes, também criei a aplicação sendo testada em HTML/CSS/JavaScript puro.
 
@@ -19,6 +16,8 @@ Um quiz simples com 5 perguntas de múltipla escolha. A cada resposta, o jogo mo
 - *GitHub Actions* — roda os testes automaticamente a cada push
 
 ## 📁 Estrutura do projeto
+
+```bash
 qa-portfolio-quiz-cypress/
 ├── game/
 │   └── index.html          # O jogo em si
@@ -27,6 +26,8 @@ qa-portfolio-quiz-cypress/
 ├── package.json
 ├── .github/workflows/tests.yml
 └── README.md
+```
+
 ## ✅ O que está sendo testado
 
 | # | Caso de teste | Tipo |
@@ -53,3 +54,4 @@ npm install
 
 # 3. Rodar os testes (sobe o servidor e roda o Cypress automaticamente)
 npm test
+```
